@@ -29,5 +29,5 @@ The goal is to explore appointment patterns, city-wise appointments, monthly tre
 ## Project Files
 - `Healthcare_Appointment_Data_Analysis_using_Python_Pandas.ipynb`
 
-## Note
-This project was created for learning and portfolio demonstration.
+## Dataset
+This project uses a synthetic healthcare appointment dataset created for learning and portfolio demonstration.
