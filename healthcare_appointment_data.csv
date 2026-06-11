@@ -1,0 +1,303 @@
+Appointment_ID,Appointment_Date,Patient_Age,Gender,Department,City,Appointment_Status,Treatment_Cost,Payment_Method,Satisfaction_Score
+1001,2024-01-01,56,Female,Dermatology,Tokyo,Completed,21297.0,Credit Card,5.0
+1002,2024-01-02,19,Male,Pediatrics,Saitama,Completed,33448.0,Insurance,4.0
+1003,2024-01-03,76,Female,Orthopedics,Tokyo,Completed,29172.0,Cash,1.0
+1004,2024-01-04,65,Male,Cardiology,Osaka,Cancelled,45874.0,Cash,4.0
+1005,2024-01-05,25,Male,Gynecology,Chiba,No-show,10657.0,Cash,3.0
+1006,2024-01-06,79,Female,Gynecology,Kyoto,Completed,,Insurance,3.0
+1007,2024-01-07,79,Female,Orthopedics,Chiba,Completed,28425.0,Credit Card,4.0
+1008,2024-01-08,28,Female,Pediatrics,Tokyo,Completed,29685.0,Insurance,5.0
+1009,2024-01-09,7,Male,General Medicine,Kyoto,Completed,27578.0,Insurance,5.0
+1010,2024-01-10,26,Female,Pediatrics,Chiba,Cancelled,31831.0,Credit Card,3.0
+1011,2024-01-11,57,Male,Orthopedics,Saitama,Completed,10906.0,Cash,2.0
+1012,2024-01-12,6,Male,Gynecology,Yokohama,Completed,10287.0,Cash,5.0
+1013,2024-01-13,34,Male,Pediatrics,Tokyo,Completed,36660.0,Insurance,4.0
+1014,2024-01-14,42,Female,Gynecology,Chiba,Completed,13222.0,Cash,5.0
+1015,2024-01-15,6,Female,General Medicine,Tokyo,Completed,40443.0,Insurance,4.0
+1016,2024-01-16,68,Male,Gynecology,Tokyo,Cancelled,37701.0,Insurance,
+1017,2024-01-17,64,Male,Gynecology,Kyoto,Completed,20764.0,Credit Card,5.0
+1018,2024-01-18,25,Female,Cardiology,Kyoto,Cancelled,47641.0,Credit Card,4.0
+1019,2024-01-19,37,Male,Cardiology,Yokohama,Completed,20674.0,Credit Card,3.0
+1020,2024-01-20,62,Female,Dermatology,Saitama,Completed,21024.0,Insurance,2.0
+1021,2024-01-21,26,Male,Cardiology,Tokyo,Completed,49007.0,Credit Card,4.0
+1022,2024-01-22,53,Female,Gynecology,Chiba,Cancelled,26874.0,Cash,2.0
+1023,2024-01-23,63,Male,Orthopedics,Osaka,No-show,46642.0,Cash,2.0
+1024,2024-01-24,46,Female,Gynecology,Tokyo,Completed,35284.0,Insurance,1.0
+1025,2024-01-25,64,Male,Orthopedics,Tokyo,Completed,20602.0,Insurance,5.0
+1026,2024-01-26,19,Female,Orthopedics,,No-show,40784.0,Credit Card,4.0
+1027,2024-01-27,66,Female,Cardiology,Saitama,Completed,26265.0,Insurance,2.0
+1028,2024-01-28,66,Male,Pediatrics,Osaka,Completed,28931.0,Insurance,1.0
+1029,2024-01-29,51,Male,General Medicine,Kyoto,No-show,31841.0,Cash,3.0
+1030,2024-01-30,66,Female,Cardiology,Kyoto,Completed,32192.0,Cash,4.0
+1031,2024-01-31,55,Male,Cardiology,Chiba,Completed,49542.0,Credit Card,2.0
+1032,2024-02-01,59,Female,Pediatrics,Osaka,Completed,45520.0,Insurance,5.0
+1033,2024-02-02,68,Male,General Medicine,Kyoto,Completed,18585.0,Insurance,1.0
+1034,2024-02-03,7,Female,Gynecology,Chiba,Completed,28559.0,Cash,2.0
+1035,2024-02-04,55,Female,Dermatology,Saitama,Cancelled,43059.0,Insurance,5.0
+1036,2024-02-05,11,Female,Dermatology,Chiba,Completed,36742.0,Cash,2.0
+1037,2024-02-06,25,Female,Gynecology,Kyoto,Completed,7133.0,Credit Card,4.0
+1038,2024-02-07,77,Female,Cardiology,Yokohama,Completed,17663.0,Cash,4.0
+1039,2024-02-08,43,Female,General Medicine,Yokohama,Completed,24754.0,Insurance,4.0
+1040,2024-02-09,22,Male,Cardiology,Yokohama,No-show,6972.0,Credit Card,1.0
+1041,2024-02-10,8,Male,Orthopedics,Kyoto,Completed,8295.0,Cash,4.0
+1042,2024-02-11,64,Male,Cardiology,Yokohama,Completed,49681.0,Cash,5.0
+1043,2024-02-12,18,Female,Cardiology,Osaka,Cancelled,44873.0,Credit Card,2.0
+1044,2024-02-13,13,Female,Gynecology,Saitama,Completed,32125.0,Credit Card,3.0
+1045,2024-02-14,57,Female,Gynecology,Chiba,Completed,43996.0,Cash,5.0
+1046,2024-02-15,6,Female,Gynecology,Chiba,Completed,12903.0,Insurance,5.0
+1047,2024-02-16,64,Male,Dermatology,Kyoto,Completed,6020.0,Cash,4.0
+1048,2024-02-17,75,Male,Orthopedics,Yokohama,Completed,44755.0,Credit Card,1.0
+1049,2024-02-18,48,Female,Gynecology,Yokohama,Completed,23420.0,Cash,2.0
+1050,2024-02-19,12,Male,General Medicine,Tokyo,Cancelled,24452.0,Credit Card,1.0
+1051,2024-02-20,51,Male,Dermatology,Saitama,Completed,48648.0,Credit Card,2.0
+1052,2024-02-21,39,Female,Pediatrics,Osaka,Completed,41001.0,Insurance,2.0
+1053,2024-02-22,40,Male,General Medicine,Chiba,Completed,12516.0,Credit Card,1.0
+1054,2024-02-23,54,Female,General Medicine,Tokyo,Completed,5396.0,Credit Card,5.0
+1055,2024-02-24,8,Male,Gynecology,Tokyo,Cancelled,21546.0,Insurance,2.0
+1056,2024-02-25,6,Female,Pediatrics,Kyoto,Completed,22129.0,Credit Card,1.0
+1057,2024-02-26,10,Female,Pediatrics,Chiba,Completed,4591.0,Insurance,2.0
+1058,2024-02-27,58,Female,Dermatology,Kyoto,Completed,14303.0,Insurance,3.0
+1059,2024-02-28,8,Female,Pediatrics,Osaka,Completed,33561.0,Credit Card,5.0
+1060,2024-02-29,58,Male,Orthopedics,Tokyo,Completed,9183.0,Credit Card,4.0
+1061,2024-03-01,67,Female,Gynecology,Tokyo,Completed,29572.0,Cash,2.0
+1062,2024-03-02,22,Female,Pediatrics,Saitama,Completed,37080.0,Insurance,3.0
+1063,2024-03-03,48,Female,Dermatology,Osaka,Cancelled,23695.0,Cash,4.0
+1064,2024-03-04,38,Male,Orthopedics,Tokyo,Completed,10314.0,Credit Card,4.0
+1065,2024-03-05,78,Female,Cardiology,Osaka,Completed,22623.0,Cash,2.0
+1066,2024-03-06,66,Male,Cardiology,Chiba,Completed,5139.0,Insurance,1.0
+1067,2024-03-07,18,Female,Orthopedics,Yokohama,Cancelled,34290.0,Cash,2.0
+1068,2024-03-08,52,Male,Dermatology,Tokyo,Completed,21088.0,Insurance,3.0
+1069,2024-03-09,19,Male,Orthopedics,Saitama,No-show,42692.0,Credit Card,4.0
+1070,2024-03-10,76,Female,Gynecology,Chiba,Completed,36130.0,Credit Card,2.0
+1071,2024-03-11,66,Male,Gynecology,Osaka,Cancelled,35088.0,Insurance,1.0
+1072,2024-03-12,44,Female,Cardiology,Kyoto,No-show,29292.0,Credit Card,2.0
+1073,2024-03-13,57,Female,Pediatrics,Chiba,Cancelled,49249.0,Credit Card,5.0
+1074,2024-03-14,28,Female,Dermatology,Tokyo,Cancelled,23670.0,Credit Card,1.0
+1075,2024-03-15,30,Male,Cardiology,Osaka,Completed,6738.0,Credit Card,3.0
+1076,2024-03-16,64,Male,Pediatrics,Yokohama,Completed,5469.0,Insurance,4.0
+1077,2024-03-17,45,Female,Pediatrics,Chiba,Completed,25534.0,Cash,2.0
+1078,2024-03-18,33,Female,Gynecology,Tokyo,Completed,12017.0,Cash,1.0
+1079,2024-03-19,19,Male,General Medicine,Saitama,Completed,5808.0,Credit Card,5.0
+1080,2024-03-20,49,Female,General Medicine,Kyoto,Completed,15713.0,Cash,1.0
+1081,2024-03-21,69,Female,Orthopedics,Osaka,Completed,43329.0,Cash,5.0
+1082,2024-03-22,75,Female,Gynecology,Chiba,Completed,5719.0,Credit Card,3.0
+1083,2024-03-23,13,Male,Pediatrics,Chiba,No-show,25890.0,Credit Card,4.0
+1084,2024-03-24,5,Male,Dermatology,Yokohama,Completed,14700.0,Cash,3.0
+1085,2024-03-25,12,Male,General Medicine,Yokohama,Cancelled,39509.0,Insurance,2.0
+1086,2024-03-26,67,Female,Pediatrics,Saitama,Cancelled,45534.0,Credit Card,1.0
+1087,2024-03-27,15,Female,General Medicine,Kyoto,No-show,39766.0,Insurance,5.0
+1088,2024-03-28,12,Female,General Medicine,Saitama,Completed,29705.0,Cash,5.0
+1089,2024-03-29,39,Male,General Medicine,Tokyo,Cancelled,21787.0,Credit Card,1.0
+1090,2024-03-30,39,Female,Dermatology,Tokyo,No-show,29588.0,Insurance,1.0
+1091,2024-03-31,37,Female,Gynecology,Saitama,No-show,29123.0,Credit Card,2.0
+1092,2024-04-01,9,Female,Dermatology,Kyoto,Completed,36062.0,Cash,3.0
+1093,2024-04-02,45,Female,Cardiology,Saitama,Completed,13177.0,Insurance,5.0
+1094,2024-04-03,32,Male,Pediatrics,Kyoto,Completed,24727.0,Cash,2.0
+1095,2024-04-04,11,Male,Gynecology,Kyoto,Completed,33220.0,Cash,3.0
+1096,2024-04-05,77,Female,Gynecology,Osaka,Completed,12882.0,Credit Card,2.0
+1097,2024-04-06,76,Male,Gynecology,Kyoto,Cancelled,4136.0,Insurance,5.0
+1098,2024-04-07,16,Male,Gynecology,Yokohama,Cancelled,37832.0,Cash,1.0
+1099,2024-04-08,38,Female,Dermatology,Kyoto,Completed,34966.0,Cash,1.0
+1100,2024-04-09,37,Female,Gynecology,Kyoto,No-show,10009.0,Insurance,3.0
+1101,2024-04-10,52,Male,Orthopedics,Kyoto,Completed,15987.0,Cash,4.0
+1102,2024-04-11,27,Female,Pediatrics,Tokyo,Completed,40311.0,Cash,3.0
+1103,2024-04-12,66,Male,Gynecology,Yokohama,No-show,34575.0,Insurance,4.0
+1104,2024-04-13,41,Female,Pediatrics,Yokohama,Completed,4007.0,Insurance,2.0
+1105,2024-04-14,48,Male,Orthopedics,Saitama,Completed,8445.0,Insurance,2.0
+1106,2024-04-15,39,Female,Orthopedics,Osaka,Cancelled,13706.0,Insurance,5.0
+1107,2024-04-16,69,Male,Pediatrics,Kyoto,Completed,47486.0,Credit Card,4.0
+1108,2024-04-17,51,Male,General Medicine,Chiba,Completed,32257.0,Insurance,5.0
+1109,2024-04-18,7,Male,Cardiology,Osaka,Cancelled,24736.0,Credit Card,1.0
+1110,2024-04-19,5,Female,General Medicine,Osaka,Completed,45207.0,Credit Card,4.0
+1111,2024-04-20,9,Male,General Medicine,Yokohama,Cancelled,16281.0,Credit Card,3.0
+1112,2024-04-21,18,Male,Dermatology,Osaka,Completed,4435.0,Cash,1.0
+1113,2024-04-22,31,Female,General Medicine,Kyoto,Cancelled,36339.0,Credit Card,1.0
+1114,2024-04-23,13,Female,Gynecology,Kyoto,Completed,38150.0,Credit Card,3.0
+1115,2024-04-24,19,Male,Dermatology,Tokyo,No-show,28821.0,Cash,1.0
+1116,2024-04-25,46,Male,Dermatology,Kyoto,Cancelled,29660.0,Cash,4.0
+1117,2024-04-26,55,Female,Orthopedics,Kyoto,Completed,8084.0,Cash,5.0
+1118,2024-04-27,67,Female,General Medicine,Yokohama,Completed,19661.0,Insurance,1.0
+1119,2024-04-28,56,Female,Orthopedics,Kyoto,No-show,16507.0,Cash,4.0
+1120,2024-04-29,8,Female,Pediatrics,Tokyo,Completed,10059.0,Cash,2.0
+1121,2024-04-30,27,Female,Cardiology,Chiba,Completed,21271.0,Credit Card,4.0
+1122,2024-05-01,19,Male,Dermatology,Yokohama,Completed,48539.0,Cash,5.0
+1123,2024-05-02,47,Female,Pediatrics,Chiba,Completed,10491.0,Insurance,4.0
+1124,2024-05-03,33,Male,Pediatrics,Yokohama,Cancelled,17859.0,Cash,3.0
+1125,2024-05-04,40,Male,Gynecology,Saitama,Completed,11073.0,Insurance,5.0
+1126,2024-05-05,17,Male,Cardiology,Osaka,Completed,12077.0,Cash,2.0
+1127,2024-05-06,36,Female,Pediatrics,Saitama,Completed,23953.0,Cash,3.0
+1128,2024-05-07,75,Male,Pediatrics,Kyoto,Completed,14383.0,Cash,4.0
+1129,2024-05-08,63,Male,Cardiology,Chiba,Completed,5353.0,Cash,5.0
+1130,2024-05-09,32,Female,Cardiology,Kyoto,Completed,26821.0,Insurance,2.0
+1131,2024-05-10,70,Male,Pediatrics,Osaka,No-show,40567.0,Insurance,3.0
+1132,2024-05-11,46,Male,Cardiology,Yokohama,Completed,27860.0,Credit Card,2.0
+1133,2024-05-12,49,Female,Pediatrics,Osaka,Completed,24195.0,Insurance,4.0
+1134,2024-05-13,66,Male,Pediatrics,Tokyo,Cancelled,14939.0,Cash,2.0
+1135,2024-05-14,61,Male,Gynecology,Osaka,Completed,28338.0,Credit Card,1.0
+1136,2024-05-15,10,Male,General Medicine,Tokyo,Cancelled,24730.0,Credit Card,3.0
+1137,2024-05-16,32,Female,Pediatrics,Osaka,Completed,24427.0,Credit Card,2.0
+1138,2024-05-17,32,Female,Orthopedics,Tokyo,Completed,38196.0,Cash,4.0
+1139,2024-05-18,48,Female,Dermatology,Chiba,Completed,30083.0,Insurance,4.0
+1140,2024-05-19,34,Male,General Medicine,Kyoto,Completed,24510.0,Cash,2.0
+1141,2024-05-20,66,Male,General Medicine,Kyoto,Cancelled,47064.0,Credit Card,4.0
+1142,2024-05-21,79,Female,General Medicine,Saitama,Completed,10813.0,Cash,5.0
+1143,2024-05-22,66,Male,Gynecology,Kyoto,Completed,34598.0,Cash,5.0
+1144,2024-05-23,5,Male,Pediatrics,Yokohama,Completed,30570.0,Insurance,5.0
+1145,2024-05-24,31,Female,Gynecology,Osaka,Completed,30082.0,Insurance,1.0
+1146,2024-05-25,66,Female,Pediatrics,Saitama,Cancelled,32241.0,Credit Card,2.0
+1147,2024-05-26,7,Male,Gynecology,Yokohama,Completed,33678.0,Cash,1.0
+1148,2024-05-27,74,Male,Gynecology,Yokohama,Completed,47569.0,Cash,4.0
+1149,2024-05-28,76,Male,Dermatology,Tokyo,Completed,14745.0,Insurance,1.0
+1150,2024-05-29,31,Female,Orthopedics,Kyoto,Completed,29029.0,Cash,4.0
+1151,2024-05-30,13,Female,Gynecology,Chiba,Cancelled,16025.0,Cash,4.0
+1152,2024-05-31,66,Female,Dermatology,Chiba,Completed,39124.0,Cash,3.0
+1153,2024-06-01,41,Female,Cardiology,Saitama,Cancelled,17288.0,Insurance,5.0
+1154,2024-06-02,55,Male,Orthopedics,Chiba,Completed,26650.0,Credit Card,4.0
+1155,2024-06-03,48,Female,Gynecology,Osaka,Completed,9540.0,Credit Card,3.0
+1156,2024-06-04,28,Female,General Medicine,Chiba,No-show,35232.0,Cash,5.0
+1157,2024-06-05,63,Female,Cardiology,Saitama,Completed,19422.0,Credit Card,4.0
+1158,2024-06-06,36,Female,Cardiology,Chiba,Completed,6342.0,Insurance,4.0
+1159,2024-06-07,56,Female,Dermatology,Osaka,Cancelled,44846.0,Insurance,1.0
+1160,2024-06-08,66,Male,Cardiology,Tokyo,Completed,38612.0,Credit Card,1.0
+1161,2024-06-09,62,Male,Orthopedics,Saitama,Cancelled,13396.0,Credit Card,5.0
+1162,2024-06-10,56,Female,Gynecology,Tokyo,Completed,20482.0,Cash,4.0
+1163,2024-06-11,16,Male,Gynecology,Tokyo,No-show,26411.0,Credit Card,2.0
+1164,2024-06-12,43,Female,General Medicine,Tokyo,Cancelled,49766.0,Cash,1.0
+1165,2024-06-13,6,Female,Dermatology,Yokohama,Completed,16261.0,Cash,5.0
+1166,2024-06-14,7,Male,General Medicine,Kyoto,No-show,6093.0,Insurance,4.0
+1167,2024-06-15,60,Male,Cardiology,Yokohama,Completed,14722.0,Insurance,4.0
+1168,2024-06-16,63,Female,General Medicine,Kyoto,No-show,25042.0,Insurance,2.0
+1169,2024-06-17,6,Female,Orthopedics,Tokyo,Completed,47413.0,Insurance,5.0
+1170,2024-06-18,6,Female,Gynecology,Saitama,Completed,31087.0,Credit Card,4.0
+1171,2024-06-19,58,Male,Cardiology,Kyoto,Completed,35347.0,Insurance,1.0
+1172,2024-06-20,5,Female,General Medicine,Osaka,Completed,36756.0,Credit Card,2.0
+1173,2024-06-21,23,Female,Dermatology,Osaka,Completed,42214.0,Insurance,5.0
+1174,2024-06-22,6,Female,Orthopedics,Chiba,Cancelled,19335.0,Credit Card,2.0
+1175,2024-06-23,57,Male,Orthopedics,Kyoto,Cancelled,31602.0,Cash,1.0
+1176,2024-06-24,48,Female,General Medicine,Saitama,No-show,37450.0,Credit Card,5.0
+1177,2024-06-25,36,Female,Gynecology,Yokohama,Completed,35196.0,Credit Card,2.0
+1178,2024-06-26,74,Male,General Medicine,Tokyo,Completed,8626.0,Insurance,3.0
+1179,2024-06-27,36,Female,Cardiology,Chiba,Completed,10424.0,Credit Card,1.0
+1180,2024-06-28,72,Female,General Medicine,Osaka,Completed,15857.0,Cash,1.0
+1181,2024-06-29,59,Male,Orthopedics,Yokohama,Completed,47923.0,Cash,1.0
+1182,2024-06-30,79,Female,General Medicine,Yokohama,Completed,22982.0,Insurance,3.0
+1183,2024-07-01,60,Male,Gynecology,Tokyo,Completed,14425.0,Cash,3.0
+1184,2024-07-02,21,Male,Dermatology,Kyoto,Completed,4980.0,Credit Card,4.0
+1185,2024-07-03,42,Female,Pediatrics,Osaka,Completed,29431.0,Cash,2.0
+1186,2024-07-04,28,Female,General Medicine,Saitama,Completed,22440.0,Insurance,4.0
+1187,2024-07-05,73,Female,Gynecology,Yokohama,Completed,44752.0,Credit Card,2.0
+1188,2024-07-06,74,Female,Gynecology,Tokyo,Completed,20175.0,Insurance,3.0
+1189,2024-07-07,15,Male,Dermatology,Saitama,No-show,29385.0,Credit Card,3.0
+1190,2024-07-08,20,Female,Orthopedics,Kyoto,Completed,41158.0,Cash,4.0
+1191,2024-07-09,77,Male,Gynecology,Osaka,Completed,26019.0,Insurance,5.0
+1192,2024-07-10,63,Female,Gynecology,Kyoto,Completed,21639.0,Insurance,4.0
+1193,2024-07-11,74,Female,Gynecology,Yokohama,Cancelled,22994.0,Credit Card,2.0
+1194,2024-07-12,7,Female,Gynecology,Saitama,No-show,37375.0,Insurance,4.0
+1195,2024-07-13,24,Male,Cardiology,Saitama,Cancelled,24563.0,Credit Card,1.0
+1196,2024-07-14,63,Female,Cardiology,Saitama,Completed,42341.0,Credit Card,2.0
+1197,2024-07-15,40,Female,Orthopedics,Yokohama,Completed,8776.0,Credit Card,2.0
+1198,2024-07-16,23,Female,General Medicine,Yokohama,Completed,39444.0,Credit Card,5.0
+1199,2024-07-17,71,Female,Gynecology,Kyoto,No-show,6380.0,Cash,3.0
+1200,2024-07-18,23,Male,Dermatology,Chiba,Cancelled,11711.0,Credit Card,2.0
+1201,2024-07-19,24,Female,General Medicine,Kyoto,Completed,11782.0,Insurance,3.0
+1202,2024-07-20,75,Male,Dermatology,Osaka,Cancelled,20434.0,Cash,4.0
+1203,2024-07-21,56,Male,General Medicine,Tokyo,Cancelled,49765.0,Insurance,1.0
+1204,2024-07-22,37,Male,Orthopedics,Saitama,Completed,23017.0,Cash,5.0
+1205,2024-07-23,44,Male,Gynecology,Chiba,No-show,33707.0,Credit Card,3.0
+1206,2024-07-24,43,Male,Gynecology,Tokyo,No-show,42110.0,Cash,2.0
+1207,2024-07-25,5,Male,Pediatrics,Chiba,Completed,20343.0,Cash,3.0
+1208,2024-07-26,15,Female,Dermatology,Kyoto,Completed,41827.0,Insurance,2.0
+1209,2024-07-27,61,Male,General Medicine,Yokohama,Completed,44652.0,Insurance,3.0
+1210,2024-07-28,54,Male,General Medicine,Saitama,Completed,8655.0,Credit Card,2.0
+1211,2024-07-29,27,Male,Cardiology,Kyoto,Completed,47859.0,Cash,4.0
+1212,2024-07-30,35,Female,Pediatrics,Tokyo,Completed,18251.0,Cash,2.0
+1213,2024-07-31,46,Female,Cardiology,Tokyo,No-show,3526.0,Cash,2.0
+1214,2024-08-01,11,Male,Cardiology,Tokyo,Completed,6224.0,Credit Card,1.0
+1215,2024-08-02,20,Female,Cardiology,Tokyo,Completed,14536.0,Credit Card,2.0
+1216,2024-08-03,64,Male,Dermatology,Tokyo,Completed,31541.0,Credit Card,1.0
+1217,2024-08-04,6,Male,Dermatology,Chiba,Completed,16547.0,Credit Card,5.0
+1218,2024-08-05,5,Female,Orthopedics,Kyoto,Cancelled,37531.0,Credit Card,1.0
+1219,2024-08-06,52,Male,Orthopedics,Saitama,Completed,11712.0,Insurance,4.0
+1220,2024-08-07,16,Female,Cardiology,Yokohama,Completed,41565.0,Cash,1.0
+1221,2024-08-08,73,Female,Pediatrics,Yokohama,Completed,12208.0,Cash,5.0
+1222,2024-08-09,41,Male,General Medicine,Kyoto,Cancelled,8109.0,Cash,4.0
+1223,2024-08-10,36,Male,Dermatology,Kyoto,Cancelled,38201.0,Cash,3.0
+1224,2024-08-11,13,Female,Pediatrics,Yokohama,Completed,19967.0,Cash,3.0
+1225,2024-08-12,23,Male,Gynecology,Yokohama,Completed,32759.0,Cash,1.0
+1226,2024-08-13,52,Male,Dermatology,Chiba,Completed,23172.0,Cash,1.0
+1227,2024-08-14,7,Male,Dermatology,Osaka,Completed,39935.0,Cash,5.0
+1228,2024-08-15,24,Female,Orthopedics,Saitama,Completed,29589.0,Insurance,5.0
+1229,2024-08-16,28,Female,General Medicine,Tokyo,Completed,33015.0,Cash,2.0
+1230,2024-08-17,58,Male,General Medicine,Osaka,Completed,32009.0,Insurance,5.0
+1231,2024-08-18,37,Female,Gynecology,Kyoto,Completed,20773.0,Credit Card,2.0
+1232,2024-08-19,28,Female,Gynecology,Yokohama,No-show,44125.0,Cash,4.0
+1233,2024-08-20,79,Female,Dermatology,Osaka,Completed,29143.0,Credit Card,1.0
+1234,2024-08-21,76,Female,Cardiology,Saitama,Completed,9154.0,Credit Card,4.0
+1235,2024-08-22,40,Female,Orthopedics,Kyoto,Completed,24804.0,Credit Card,5.0
+1236,2024-08-23,42,Male,Orthopedics,Tokyo,Completed,44688.0,Insurance,4.0
+1237,2024-08-24,29,Male,Dermatology,Tokyo,Cancelled,23581.0,Credit Card,4.0
+1238,2024-08-25,22,Male,Pediatrics,Saitama,Completed,33087.0,Credit Card,4.0
+1239,2024-08-26,70,Female,Cardiology,Saitama,Completed,35981.0,Credit Card,5.0
+1240,2024-08-27,58,Female,Dermatology,Yokohama,Cancelled,6762.0,Cash,4.0
+1241,2024-08-28,39,Male,Cardiology,Tokyo,Completed,49167.0,Cash,2.0
+1242,2024-08-29,65,Female,Cardiology,Kyoto,Completed,12768.0,Insurance,5.0
+1243,2024-08-30,45,Male,Cardiology,Osaka,No-show,46408.0,Insurance,4.0
+1244,2024-08-31,37,Male,Dermatology,Kyoto,Completed,42499.0,Cash,5.0
+1245,2024-09-01,72,Male,Orthopedics,Chiba,Completed,41559.0,Insurance,3.0
+1246,2024-09-02,37,Female,Orthopedics,Chiba,No-show,11783.0,Cash,2.0
+1247,2024-09-03,18,Female,Cardiology,Saitama,Completed,49389.0,Credit Card,4.0
+1248,2024-09-04,25,Male,Pediatrics,Yokohama,Completed,32781.0,Credit Card,3.0
+1249,2024-09-05,52,Male,General Medicine,Chiba,Completed,33811.0,Insurance,3.0
+1250,2024-09-06,24,Male,Dermatology,Tokyo,No-show,38488.0,Cash,5.0
+1251,2024-09-07,12,Male,General Medicine,Kyoto,Completed,11905.0,Cash,3.0
+1252,2024-09-08,11,Female,Pediatrics,Kyoto,Completed,12127.0,Insurance,2.0
+1253,2024-09-09,71,Female,Dermatology,Saitama,Completed,25431.0,Cash,2.0
+1254,2024-09-10,21,Male,Cardiology,Osaka,Completed,9368.0,Credit Card,1.0
+1255,2024-09-11,37,Male,Orthopedics,Saitama,Completed,30424.0,Insurance,2.0
+1256,2024-09-12,52,Female,General Medicine,Osaka,Completed,49824.0,Insurance,3.0
+1257,2024-09-13,63,Female,Gynecology,Saitama,Completed,48004.0,Cash,2.0
+1258,2024-09-14,26,Male,Gynecology,Saitama,Completed,21333.0,Insurance,5.0
+1259,2024-09-15,34,Male,Pediatrics,Saitama,Completed,26116.0,Cash,1.0
+1260,2024-09-16,42,Male,Cardiology,Osaka,Completed,46201.0,Cash,3.0
+1261,2024-09-17,55,Female,General Medicine,Osaka,Completed,18525.0,Cash,1.0
+1262,2024-09-18,58,Female,Cardiology,Saitama,Completed,26398.0,Cash,3.0
+1263,2024-09-19,12,Female,General Medicine,Chiba,Cancelled,35857.0,Cash,5.0
+1264,2024-09-20,31,Male,Pediatrics,Yokohama,Completed,13361.0,Insurance,1.0
+1265,2024-09-21,31,Male,Pediatrics,Yokohama,Completed,19369.0,Credit Card,4.0
+1266,2024-09-22,25,Female,Gynecology,Yokohama,Completed,6041.0,Credit Card,3.0
+1267,2024-09-23,34,Female,Cardiology,Osaka,Cancelled,3105.0,Insurance,4.0
+1268,2024-09-24,32,Male,Dermatology,Osaka,Completed,12078.0,Insurance,1.0
+1269,2024-09-25,68,Female,Gynecology,Chiba,Completed,28003.0,Credit Card,4.0
+1270,2024-09-26,73,Female,Cardiology,Yokohama,Completed,9090.0,Credit Card,4.0
+1271,2024-09-27,65,Male,Gynecology,Yokohama,No-show,41850.0,Credit Card,1.0
+1272,2024-09-28,52,Female,Dermatology,Saitama,Completed,4925.0,Credit Card,5.0
+1273,2024-09-29,23,Male,Orthopedics,Osaka,Completed,21440.0,Credit Card,4.0
+1274,2024-09-30,8,Male,Orthopedics,Yokohama,Completed,42685.0,Cash,4.0
+1275,2024-10-01,39,Male,Orthopedics,Kyoto,Completed,29015.0,Insurance,5.0
+1276,2024-10-02,68,Male,Orthopedics,Chiba,No-show,36320.0,Cash,4.0
+1277,2024-10-03,53,Male,General Medicine,Kyoto,Cancelled,28291.0,Credit Card,4.0
+1278,2024-10-04,21,Male,Orthopedics,Kyoto,Completed,39679.0,Credit Card,4.0
+1279,2024-10-05,48,Male,Dermatology,Chiba,Completed,29289.0,Credit Card,2.0
+1280,2024-10-06,34,Female,Pediatrics,Kyoto,No-show,6389.0,Cash,5.0
+1281,2024-10-07,50,Male,Pediatrics,Yokohama,No-show,28683.0,Cash,4.0
+1282,2024-10-08,10,Male,General Medicine,Osaka,Completed,16629.0,Credit Card,5.0
+1283,2024-10-09,41,Female,Orthopedics,Chiba,No-show,27826.0,Cash,3.0
+1284,2024-10-10,28,Female,Orthopedics,Saitama,No-show,38198.0,Cash,3.0
+1285,2024-10-11,50,Female,Orthopedics,Kyoto,Cancelled,29630.0,Credit Card,4.0
+1286,2024-10-12,57,Male,Gynecology,Chiba,Completed,36226.0,Cash,5.0
+1287,2024-10-13,64,Female,Cardiology,Tokyo,Completed,49163.0,Insurance,5.0
+1288,2024-10-14,67,Male,Gynecology,Tokyo,Cancelled,35975.0,Insurance,5.0
+1289,2024-10-15,36,Male,Cardiology,Osaka,Completed,3899.0,Insurance,2.0
+1290,2024-10-16,37,Male,Orthopedics,Yokohama,Cancelled,14653.0,Insurance,3.0
+1291,2024-10-17,71,Male,Orthopedics,Osaka,Completed,30961.0,Credit Card,5.0
+1292,2024-10-18,22,Female,Gynecology,Osaka,Completed,19405.0,Credit Card,5.0
+1293,2024-10-19,29,Female,Gynecology,Osaka,Completed,11601.0,Credit Card,2.0
+1294,2024-10-20,58,Male,Cardiology,Osaka,Completed,36662.0,Insurance,2.0
+1295,2024-10-21,62,Male,Pediatrics,Saitama,No-show,36282.0,Insurance,5.0
+1296,2024-10-22,71,Male,Cardiology,Saitama,Cancelled,24288.0,Cash,1.0
+1297,2024-10-23,50,Female,Gynecology,Chiba,Cancelled,32545.0,Cash,5.0
+1298,2024-10-24,28,Male,Dermatology,Tokyo,Completed,39877.0,Insurance,5.0
+1299,2024-10-25,36,Male,Gynecology,Osaka,Completed,49026.0,Insurance,2.0
+1300,2024-10-26,51,Female,Dermatology,Chiba,Completed,18313.0,Insurance,2.0
+1011,2024-01-11,57,Male,Orthopedics,Saitama,Completed,10906.0,Cash,2.0
+1021,2024-01-21,26,Male,Cardiology,Tokyo,Completed,49007.0,Credit Card,4.0
